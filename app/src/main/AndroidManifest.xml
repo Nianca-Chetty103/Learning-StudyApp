@@ -12,7 +12,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.LearningStudyApp">
         <activity
-            android:name=".MainActivity"
+            android:name=".Sign"
+            android:exported="false" />
+        <activity
+            android:name=".Splash"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

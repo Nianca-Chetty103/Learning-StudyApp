@@ -18,3 +18,8 @@ My learning helps students by:
 - organised material and can't loose any notes.
 - i'm going to try use AI so that it can hopefully explain to the user about topics for easier understanding.
 - Will build a streak function to keep the user coming back to learn their study material.
+
+## Features 
+- personalised learning for each student using it.
+- engaging for students to learn with.
+  

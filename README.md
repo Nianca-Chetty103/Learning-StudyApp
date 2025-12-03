@@ -10,9 +10,12 @@ As a student myself finding ways to study loads of material can be a hassle 😵
 - having notes lost or disorganised can be a frustration.
 - Understanding difficult topics.
 - unproductive use of screen time.
+
+## What I learnt 
+- 
   
-## Solutions 💡
-My learning helps students by:
+## How does it help students / community: 💡
+My learning app helps students by:
 - Built-in focus timers where I could try lock other apps that make the student uproductive while using the app to study.
 - Interative learning
 - organised material and can't loose any notes.
